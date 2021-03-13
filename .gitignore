@@ -1,0 +1,4 @@
+*.pyc
+.ipynb_*
+hw4/.ipynb_*
+*data/
